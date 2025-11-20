@@ -111,6 +111,3 @@ In my spare time I like to play soccer, table tennis or a couple of hours playst
                 />
             </a></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
